@@ -1,0 +1,1 @@
+worker: java -jar build/libs/zbysiuV2-0.1alpha-all.jar

@@ -1,0 +1,103 @@
+bot/player/Player.java
+ bot.player.Player
+bot/commands/object/ResourcesLoader.java
+ bot.commands.object.ResourcesLoader
+bot/commands/member/Ranking.java
+ bot.commands.member.Ranking
+bot/commands/object/ObjectsManager.java
+ bot.commands.object.ObjectsManager
+bot/music/PlayerManager.java
+ bot.music.PlayerManager
+ bot.music.PlayerManager$1
+bot/exceptions/DatabaseConnectionException.java
+ bot.exceptions.DatabaseConnectionException
+bot/source/Zbyszek.java
+ bot.source.Zbyszek
+bot/commands/object/Dupa.java
+ bot.commands.object.Dupa
+bot/commands/object/Joke.java
+ bot.commands.object.Joke
+bot/commands/entertainment/PWR.java
+ bot.commands.entertainment.PWR
+bot/commands/object/FunType.java
+ bot.commands.object.FunType
+bot/player/hero/attributes/Defence.java
+ bot.player.hero.attributes.Defence
+bot/music/GuildMusicManager.java
+ bot.music.GuildMusicManager
+bot/commands/member/Daily.java
+ bot.commands.member.Daily
+bot/music/YouTubeDataFetcher.java
+ bot.music.YouTubeDataFetcher
+bot/commands/music/Skip.java
+ bot.commands.music.Skip
+bot/commands/music/Clear.java
+ bot.commands.music.Clear
+bot/commands/entertainment/JerkOff.java
+ bot.commands.entertainment.JerkOff
+bot/commands/object/Meme.java
+ bot.commands.object.Meme
+messagetemplates/EmojiConverter.java
+ messagetemplates.EmojiConverter
+messagetemplates/MessageEmbedTemplate.java
+ messagetemplates.MessageEmbedTemplate
+bot/commands/entertainment/AleDupa.java
+ bot.commands.entertainment.AleDupa
+bot/player/consumables/Consumable.java
+ bot.player.consumables.Consumable
+bot/player/hero/experience/Level.java
+ bot.player.hero.experience.Level
+bot/player/hero/attributes/Statistics.java
+ bot.player.hero.attributes.Statistics
+bot/player/hero/Hero.java
+ bot.player.hero.Hero
+bot/commands/member/GetExp.java
+ bot.commands.member.GetExp
+bot/commands/entertainment/Dab.java
+ bot.commands.entertainment.Dab
+bot/player/hero/attributes/Damage.java
+ bot.player.hero.attributes.Damage
+bot/commands/object/Piwo.java
+ bot.commands.object.Piwo
+bot/commands/ICommand.java
+ bot.commands.ICommand
+bot/music/TrackScheduler.java
+ bot.music.TrackScheduler
+config/Config.java
+ config.Config
+database/DatabaseManager.java
+ database.DatabaseManager
+bot/commands/CommandsManager.java
+ bot.commands.CommandsManager
+database/PlayerDefaults.java
+ database.PlayerDefaults
+bot/commands/music/Play.java
+ bot.commands.music.Play
+bot/managers/ActivityManager.java
+ bot.managers.ActivityManager
+bot/player/utility/Activity.java
+ bot.player.utility.Activity
+bot/commands/entertainment/MakeJoke.java
+ bot.commands.entertainment.MakeJoke
+bot/player/consumables/Coins.java
+ bot.player.consumables.Coins
+bot/player/hero/attributes/Points.java
+ bot.player.hero.attributes.Points
+bot/commands/entertainment/Witoj.java
+ bot.commands.entertainment.Witoj
+bot/commands/music/Current.java
+ bot.commands.music.Current
+bot/music/AudioPlayerSendHandler.java
+ bot.music.AudioPlayerSendHandler
+bot/commands/entertainment/GiveMeme.java
+ bot.commands.entertainment.GiveMeme
+bot/commands/entertainment/Help.java
+ bot.commands.entertainment.Help
+bot/commands/object/FunMessage.java
+ bot.commands.object.FunMessage
+bot/exceptions/NoVideoFoundException.java
+ bot.exceptions.NoVideoFoundException
+bot/commands/member/PvP.java
+ bot.commands.member.PvP
+bot/managers/PvPManager.java
+ bot.managers.PvPManager
